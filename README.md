@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoleneKearse
 - 👀 I’m interested in Python and frontend dev
-- 🌱 I’m currently learning Python and reviewing CSS.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
