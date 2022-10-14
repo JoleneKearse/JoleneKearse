@@ -1,6 +1,6 @@
 # Jolene Kearse | Frontend Web Developer
 
-![Code with gradient, contact details and my pic](img.png)
+<div align="center"><img src="img.png"><div>
 
 I've stepped up my learning this past year with **JavaScript**. 🚀 I started off with **[Class Central](https://www.classcentral.com/report/javascript-and-webdev-bootcamps-fall-2022/)**'s Bootcamp based on **[FreeCodeCamp's Data Structures and Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** curriculum.
 
