@@ -72,7 +72,8 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
                 /></a>
 
 <hr>
-### 🧮 My Stats
+  
+## 🧮 My Stats
 
 <a href="http://www.github.com/JoleneKearse"><img src="https://github-readme-stats.vercel.app/api?username=JoleneKearse&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoleneKearse's GitHub stats" /></a>
 
