@@ -84,3 +84,6 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <a href="https://github.com/JoleneKearse" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoleneKearse&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
