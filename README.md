@@ -86,7 +86,7 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <div>
 
 <!--START_SECTION:waka-->
-
+<div align="center">
 ```text
 Total Time: 22 hrs 20 mins
 
@@ -97,5 +97,5 @@ HTML         3 hrs 22 mins   ███▓░░░░░░░░░░░░░
 JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
-
+  </div>
 <!--END_SECTION:waka-->
