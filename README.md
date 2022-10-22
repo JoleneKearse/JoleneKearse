@@ -100,4 +100,5 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 </div>
 
 ## Holopin Badges
-[![My Holopin board](https://holopin.me/pharaohnutz)](https://holopin.io/@pharaohnutz))
+
+[![My Holopin board](https://holopin.me/@pharaohnutz)](https://holopin.io/@pharaohnutz)
