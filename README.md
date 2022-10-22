@@ -81,8 +81,9 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 
 <a href="http://www.github.com/JoleneKearse"><img src="https://activity-graph.herokuapp.com/graph?username=JoleneKearse&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<div>
 ## 🔥 WakaTime Stats
+<div>
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -97,3 +98,6 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
+
+## Holopin Badges
+[![My Holopin board](https://holopin.me/pharaohnutz)](https://holopin.io/@pharaohnutz))
