@@ -87,13 +87,13 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 19 hrs 16 mins
+Total Time: 20 hrs 49 mins
 
-Markdown     7 hrs 59 mins   ██████████▒░░░░░░░░░░░░░░   41.50 %
-JavaScript   7 hrs 45 mins   ██████████░░░░░░░░░░░░░░░   40.27 %
-CSS          2 hrs 38 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-HTML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Markdown     9 hrs 32 mins   ███████████▒░░░░░░░░░░░░░   45.81 %
+JavaScript   8 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.46 %
+CSS          2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+HTML         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
