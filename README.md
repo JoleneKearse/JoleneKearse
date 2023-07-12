@@ -87,13 +87,13 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 37 mins
+Total Time: 14 hrs 13 mins
 
-C++          8 hrs 36 mins   █████████████████░░░░░░░░   67.55 %
-JavaScript   2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-Markdown     46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-CSS          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-HTML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+C++          8 hrs 36 mins   ███████████████░░░░░░░░░░   60.35 %
+Python       3 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
+TypeScript   1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Markdown     46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+CSS          22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
