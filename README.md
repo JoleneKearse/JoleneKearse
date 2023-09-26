@@ -1,20 +1,22 @@
 <div align="center">
-  <h1>Jolene Kearse | Frontend Web Developer <img src="https://komarev.com/ghpvc/?username=JoleneKearse&style=flat-square&color=blue" alt=""/></h1>
+  <h1>Jolene Kearse | Software Engineer <img src="https://komarev.com/ghpvc/?username=JoleneKearse&style=flat-square&color=blue" alt=""/></h1>
 
 <img src="img.png">
 
-I've stepped up my learning this past year with **JavaScript**. 🚀 I started off with **[Class Central](https://www.classcentral.com/report/javascript-and-webdev-bootcamps-fall-2022/)**'s Bootcamp based on **[FreeCodeCamp's Data Structures and Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)** curriculum.
+I had been learning **Frontend Web Development**, because I love design and *instantly* seeing my creations come to life - like that just rocks! 🎸 
 
-I'm creating a solid foundation of JavaScript with **vanilla projects** and **[Codewars](https://www.codewars.com/)** katas. _(As of August 31st, 2022, I ranked up to 5 kyu!)_
+I had a lot of fun creating apps that *simulated* the full experience and *-I bet you can guess where this is leading!-* that led to learning how to hook up the backends too.  I started out using **Firebase**, then **Express** & **Node** to complete the ever-popular (in learning paths, anyway) **MERN** stack.
 
-This past month I quickly learned enough **React** to work with a team of developers and started in **open source** after getting inspired by **Hacktoberfest**.
+So you could say that my learning this past year has been all over the place!
+
+I've returned the **Python**, while working to keep up my **React**. I'm loving [Exercism's #12in23 challenge](https://exercism.org/challenges/12in23) to give a different language a _'mini-try'_ each month. So far, **Scheme**'s crazy run-on parentheses and **C++**'s just plain usefulness have been my faves.  This last month I've been going hard-core on [Boot.dev's](https://www.boot.dev/) really cool Backend Development Track.
 
 <hr>
 
 ## 🏃‍♀️ Quick Facts About Me
 
-- 🌍  I'm based in Southwestern Ontario, Canada 🇨🇦
-- 🧠  I'm learning React using Vite and Yarn. I also brush up my SCSS skills whenever I get the chance.
+- 🌍  I'm currently based in Southwestern Ontario, Canada
+- 🧠  I'm learning React, TypeScript, Tailwind, Python, and SQL.
 - 🤝  I'm open to collaborating on **group projects**, **pair programming** and **open source**. I love getting more practice with the **team git workflow**. But the best thing is learning from other devs, discussing code, and teaching myself by explaining my thought process.
 - ⚡  I was an English as a Foreign Language Teacher for 15+ years. I mainly lived in China, but also spent time in England, Canada and South Korea. There was actually one 6-month period where I lived on 3 different continents!
 - 🥰 I'm addicted to _celebrating_ my **LinkedIn** connections' achievements and giving encouraging likes and Tweets on **Twitter**.
