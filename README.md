@@ -89,11 +89,11 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 46 mins
+Total Time: 6 hrs 39 mins
 
-C#      8 hrs 44 mins   █████████████████████████   99.61 %
-XML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C#      6 hrs 37 mins   █████████████████████████   99.49 %
+XML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Ezhil   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
