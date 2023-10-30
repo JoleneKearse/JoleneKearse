@@ -89,13 +89,13 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 10 mins
+Total Time: 9 hrs 58 mins
 
-C#           8 hrs 9 mins    ██████████████████████░░░   88.21 %
-Markdown     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+C#           8 hrs 50 mins   ██████████████████████░░░   88.01 %
+Markdown     40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
