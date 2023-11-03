@@ -91,10 +91,10 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 ```txt
 Total Time: 15 hrs 45 mins
 
-C#           9 hrs 26 mins   ███████████████░░░░░░░░░░   59.68 %
-JavaScript   2 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
-Python       2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-Markdown     45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+C#           8 hrs 14 mins   █████████████░░░░░░░░░░░░   52.06 %
+JavaScript   4 hrs 15 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+Python       2 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Markdown     45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
