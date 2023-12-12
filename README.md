@@ -89,9 +89,10 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 4 mins
 
-ColdFusion   0 secs          █████████████████████████   100.00 %
+ColdFusion   3 mins          ██████████████████████▒░░   89.02 %
+JSON         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
 ```
 
 <!--END_SECTION:waka-->
