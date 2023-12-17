@@ -91,8 +91,8 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 ```txt
 Total Time: 4 mins
 
-ColdFusion   3 mins          ██████████████████████▒░░   88.91 %
-JSON         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+ColdFusion   3 mins          ██████████████████████▒░░   88.71 %
+JSON         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
 ```
 
 <!--END_SECTION:waka-->
