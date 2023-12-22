@@ -91,7 +91,8 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Other        0 secs          █████████████████▓░░░░░░░   70.29 %
+ColdFusion   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.71 %
 ```
 
 <!--END_SECTION:waka-->
