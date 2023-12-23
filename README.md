@@ -89,10 +89,12 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 9 mins
 
-Other        0 secs          █████████████████▓░░░░░░░   70.29 %
-ColdFusion   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.71 %
+Bash         7 mins          ████████████████████▒░░░░   81.83 %
+Vim Script   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Other        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+ColdFusion   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->
