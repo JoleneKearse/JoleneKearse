@@ -89,13 +89,13 @@ I started out after a quite stressful repatriation with just a phone and 7" tabl
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 55 mins
+Total Time: 9 hrs 40 mins
 
-Other        22 hrs 54 mins  ██████████████████▓░░░░░░   74.29 %
-Astro        1 hr 55 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Python       1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Go           1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-JavaScript   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Other        27 hrs 3 mins   ██████████████████▒░░░░░░   73.67 %
+Go           2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Astro        2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Python       1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+JavaScript   1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
