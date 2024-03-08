@@ -122,13 +122,13 @@ Resources like **[CS50](https://pll.harvard.edu/course/cs50-introduction-compute
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 47 mins
+Total Time: 12 hrs 20 mins
 
-Other        25 hrs 18 mins  ████████████████▒░░░░░░░░   64.74 %
-TypeScript   13 hrs 25 mins  ████████▓░░░░░░░░░░░░░░░░   34.33 %
-JavaScript   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Rust         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        24 hrs 46 mins  ████████████████▓░░░░░░░░   66.75 %
+TypeScript   11 hrs 58 mins  ████████░░░░░░░░░░░░░░░░░   32.26 %
+JavaScript   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Rust         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
