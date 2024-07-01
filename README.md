@@ -107,6 +107,10 @@ Resources like **[CS50](https://pll.harvard.edu/course/cs50-introduction-compute
                 /></a>
 
 <hr>
+
+## Daily.dev card 
+
+<a href="https://app.daily.dev/jolenek"><img src="https://api.daily.dev/devcards/v2/uquWdygd7S7azFvRNHB8n.png?type=default&r=ckh" width="356" alt="Jolene Kearse's Dev Card"/></a>
   
 ## 🧮 My Stats
 
