@@ -3,20 +3,14 @@
 
 <img src="github-readme.png">
 
-#### ⚠️ Update in progress 🏗️
-
-
-
-So you could say that my learning this past year has been all over the place!
-
-I've returned the **Python**, while working to keep up my **React**. I'm loving [Exercism's #12in23 challenge](https://exercism.org/challenges/12in23) to give a different language a _'mini-try'_ each month. So far, **Scheme**'s crazy run-on parentheses and **C++**'s just plain usefulness have been my faves.  This last month I've been going hard-core on [Boot.dev's](https://www.boot.dev/) really cool Backend Development Track.
+Hi, everyone! 👋 I have been building **frontend** projects for over 5 years and have transitioned into **full-stack** these past two.  
 
 <hr>
 
 ## 🏃‍♀️ Quick Facts About Me
 
 - 🌍  I'm based in Southwestern Ontario, Canada for family reasons, but I'm an expat at heart. 💗
-- 🧠  I'm enamoured with **Rust** 🦀, and continuing on with **Astro** & **React**.
+- 🧠  I'm enamoured with **Rust** 🦀, and continuing on with **React** & **TypeScript**.
 - 🤝  I'm open to collaborating on **group projects**, **pair programming** and **open source**. I love getting more practice with the **team git workflow**. But the best thing is *combining our collective tech knowledge & talking code*.
 - ⚡  I was an English as a Foreign Language Teacher for 15+ years. I lived primarily in China, but also spent time in England, Canada and South Korea. There was actually one 6-month period where I lived on 3 different continents!
 - 🥰 I'm addicted to _celebrating_ my **LinkedIn** connections' achievements and giving encouraging likes and Tweets on **Twitter**.
@@ -31,13 +25,13 @@ _Hover over the icons to see additional info!_
 Most of the projects are made with the **_big three_**: **JavaScript**, **HTML**, and **CSS**. I've now entered the _**React**-phase_, where I'm building everything with **Vite** and **Yarn**.
 
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript: Hard-core learning this past year"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript: My main language - I can even tackle 4 kyu codewars katas in it!"/></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3: My go-to happy place"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5: Practice using forms, meter, abbr, and other obscure tags"/></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux: I love using Fedora WSL2 to code even though it adds higher complexity" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git: Experience working with teams not just little old me"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React: My very first framework"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="Tailwind CSS: Became a convert this year, after learning to set it up and work in the config myself" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React: My very first framework; working to get more and more advanced"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="Tailwind CSS: I'm now a full on convert" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite: Please, even React says create-react-app is deprecated" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase: A solid & simple backend" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" title="Photoshop: My mainstay for roughly 20 years"/></a>
