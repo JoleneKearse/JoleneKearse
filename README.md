@@ -3,7 +3,7 @@
 
 <img src="github-readme.png">
 
-Hi, everyone! 👋 I have been building **frontend** projects for over 5 years and have transitioned into **full-stack** these past two.  
+Hi, everyone! 👋 I have been building **frontend** projects for over 5 years and have transitioned into **full-stack** these past two.  I mainly use JS, React, Tailwind, Node and PostgreSQL, but I've been dedicated to learning Rust in 2024.
 
 <hr>
 
