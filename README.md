@@ -26,6 +26,7 @@ Most of the projects are made with the **_big three_**: **JavaScript**, **HTML**
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript: My main language - I can even tackle 4 kyu codewars katas in it!"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript: How I satisfy my love of types in the JS realm" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React: My very first framework; working to get more and more advanced"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="Tailwind CSS: I'm now a full on convert" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite: Please, even React says create-react-app is deprecated" /></a>
@@ -45,8 +46,6 @@ I'm still learning **SCSS** in my free moments. I love **Python** and **Vue** an
 
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python: My go-to for utility apps"/></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" title="Rust: My new love & language I will personally use the most in 2024" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript: How I satisfy my love of types in the JS realm" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS: Still a strong contender" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express: A simple Node JS framework" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB: I have experience although I've moved more towards SQL" /></a>
@@ -60,13 +59,13 @@ I'm still learning **SCSS** in my free moments. I love **Python** and **Vue** an
 
 <hr>
 
-## 💻 My Developer Education
+## 💻 My Early Developer Education
 
 My career totally flipped ↕️ when I began this *wonderous* journey into the *mysterious world* of **Web Development**!  With a background in teaching in English around the world where I threw myself into finding the *best* way to teach my students, I was suddenly the learner!
 
 That said I'm **100% community-taught**, _which is my preferred term (rather than **self-taught**)_, meaning I've learned from so many excellent sources!   My skills in education really came out in choosing which resources to use; which free resources to use and when to actually cough out my *limited* cash... 🫦🤑
 
-I started out learning **Frontend Web Development**, because I love design and *instantly* seeing my creations come to life - that simply rocks! 🎸  Of course (of course!), I encountered the amazing videos of **[Kevin Powell](https://www.kevinpowell.co/) to explore the power of **CSS**.  This lead to my discovery of **[Scrimba](https://scrimba.com/)** which became my *guide*. 🧭
+I started out learning **Frontend Web Development**, because I love design and *instantly* seeing my creations come to life - that simply rocks! 🎸  Of course (of course!), I encountered the amazing videos of **[Kevin Powell](https://www.kevinpowell.co/)** to explore the power of **CSS**.  This lead to my discovery of **[Scrimba](https://scrimba.com/)** which became my *guide*. 🧭
 
 But I'm getting ahead of myself!  *Sorry, I get so excited about code!*
 
@@ -84,8 +83,9 @@ I had a lot of fun creating apps that *simulated* the full experience, but I wan
 
 Resources like **[CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)** and **[Exercism](https://exercism.org/)** encouraged me to become a **more rounded developer**.  The yearly challenges the former has offered got me excited to try out different languages.  But *more importantly* recognize the pros & cons of them.  
 
-![My Exercism badges](<img width="883" alt="image" src="https://github.com/JoleneKearse/JoleneKearse/assets/70668540/536c5852-2e6a-4030-a0f0-ff515d2076d4">)
+These represented the start of my journey into code that has only bloomed these last few years.  
 
+Nowadays, I spend my time building full-stack projects, tackling DSA challenges (mainly through [Codewars](https://www.codewars.com/users/PharaohNutz), and learning Rust. 
 
 
 
