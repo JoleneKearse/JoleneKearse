@@ -1,7 +1,7 @@
 
   <h1>Jolene Kearse | Software Engineer <img src="https://komarev.com/ghpvc/?username=JoleneKearse&style=flat-square&color=blue" alt=""/></h1>
 
-<img src="img.png">
+<img src="github-readme.png">
 
 #### ⚠️ Update in progress 🏗️
 
