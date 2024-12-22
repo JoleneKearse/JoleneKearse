@@ -123,13 +123,13 @@ Nowadays, I spend my time building full-stack projects, tackling DSA challenges 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 52 mins
+Total Time: 6 hrs 8 mins
 
-C#           2 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
-PHP          1 hr 59 mins    ███████▒░░░░░░░░░░░░░░░░░   29.04 %
-Python       1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-JavaScript   43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+PHP        2 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.76 %
+C#         2 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   34.01 %
+Python     1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+HTML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
