@@ -123,13 +123,13 @@ Nowadays, I spend my time building full-stack projects, tackling DSA challenges 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 42 mins
+Total Time: 9 hrs 10 mins
 
-JavaScript     7 hrs 24 mins   ███████████████████░░░░░░   76.25 %
-PHP            1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-YAML           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-HTML           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-HTTP Request   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+JavaScript     6 hrs 42 mins   ██████████████████▒░░░░░░   73.08 %
+PHP            1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
+HTML           25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+YAML           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+HTTP Request   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
