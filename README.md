@@ -123,13 +123,13 @@ Nowadays, I spend my time building full-stack projects, tackling DSA challenges 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 7 mins
+Total Time: 5 hrs 41 mins
 
-CSS           3 hrs 27 mins   ██████████████░░░░░░░░░░░   56.33 %
-TypeScript    1 hr 41 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
-Markdown      31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-HTML          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Image (svg)   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+CSS           3 hrs 27 mins   ███████████████▒░░░░░░░░░   60.71 %
+TypeScript    1 hr 38 mins    ███████▒░░░░░░░░░░░░░░░░░   28.84 %
+HTML          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Markdown      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+Image (svg)   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
