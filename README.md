@@ -123,9 +123,11 @@ Nowadays, I spend my time building full-stack projects, tackling DSA challenges 
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 23 mins
 
-No activity tracked
+TypeScript   14 mins         ███████████████▓░░░░░░░░░   62.01 %
+Git Config   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+JSON         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
 ```
 
 <!--END_SECTION:waka-->
