@@ -3,17 +3,17 @@
 
 <img src="github-readme.png">
 
-Hi, everyone! 👋 I have been building **frontend** projects for over 5 years and have transitioned into **full-stack** these past two.  I mainly use TS, JS, React, Tailwind, Node and PostgreSQL.
+Hi, everyone! 👋 I have been building **frontend** projects for over 5 years and have transitioned into **full-stack** these past two.  I mainly use **TS**, **JS**, **React**, **Tailwind CSS**, **Node JS** and **PostgreSQL**.
 
 <hr>
 
 ## 🏃‍♀️ Quick Facts About Me
 
 - 🌍  I'm based in Southwestern Ontario, Canada for family reasons, but I'm an expat at heart. 💗
-- 🧠  I'm a **TypeScipt** & **React** developer, who builds full-stack accessible apps.  My latest obsession is **web performance**.
+- 🧠  I'm a **TypeScipt** & **React** developer, who builds **full-stack accessible** apps.  My latest obsession is **web performance**.
 - 🤝  I'm open to collaborating on **group projects**, **pair programming** and **open source**. I love getting more practice with the **team git workflow**. But the best thing is *combining our collective tech knowledge & talking code*.
 - ⚡  I was an English as a Foreign Language Teacher for 15+ years. I lived primarily in China, but also spent time in England, Canada and South Korea. There was actually one 6-month period where I lived on 3 different continents!
-- 🥰 I'm addicted to _celebrating_ my **LinkedIn** connections' achievements and giving encouraging likes and Tweets on **Twitter**.
+- 🥰 I'm addicted to _celebrating_ my **LinkedIn** connections' achievements and giving encouraging reactions.  I never thought in a million years, I'd be on this wild Software Engineering ride, and I want others to know they can **absolutely** do it too!  Oh, yeah, my mental health journey and protection of wild bunnies also feature in my posts.
 <hr>
 
 ## 🛠️ My Skills
@@ -22,16 +22,21 @@ _Hover over the icons to see additional info!_
 
 #### My Main Tech 
 
-Most of the projects are made with the **_big three_**: **JavaScript**, **HTML**, and **CSS**. I've now entered the _**React**-phase_, where I'm building everything with **Vite** and **Yarn**.
+I'm a **TypeScript** & **React** developer, since _Hey, those are top of the deck in most job postings_, but I also love them.  
+
+My _efficiency_ and _effectiveness_-focused brain craves **strict types**, which TypeScript provides.  It also helps in **DX**, or developer productivity.  I had a serious love for **Rust** with it's extremely helpful messages, but have found I can parse TS's tips in VS Code and browser messages with _just a tad more mental wrangling_ in TS and React.  
+
+I wasn't initially sold on React, and I'm still not in all cases - sometimes another framework is more appropriate for a particular project.  But I have learned how to use **DevTools** to evaluate my app's performance and are becoming more experienced using advanced techniques to keep things working speedily.
 
 <p align="center">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript: I love strictly-typed languages, so this satisfies this need in the JS realm." /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript: My main language - I can even tackle 4 kyu codewars katas in it!"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript: How I satisfy my love of types in the JS realm" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React: My very first framework; working to get more and more advanced"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="Tailwind CSS: I'm now a full on convert" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite: Please, even React says create-react-app is deprecated" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite: A speedy build tool with great plugins to expand it's capabilities." /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git: Experience working with teams not just little old me"/></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" title="Rust: My new love is teaching me to be a better developer!" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS: Still a strong contender" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express: A simple Node JS framework" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL: I love the simplicity & power of this database tech! /></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase: A solid & simple backend" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3: My go-to happy place"/></a>
@@ -46,12 +51,9 @@ I'm still learning **SCSS** in my free moments. I love **Python** and **Vue** an
 
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python: My go-to for utility apps"/></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS: Still a strong contender" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express: A simple Node JS framework" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#: I loved speed learning this to work on a collaborative project."/></a>                 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB: I have experience although I've moved more towards SQL" /></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" title="Go: Had to take a tiny step back to focus on Rust, but will definitely return!" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue: Built 1 project & would love to get back into"/></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass: Currently learning SCSS syntax"/></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" title="Illustrator: Need to refer to notes, but capable"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma: Read-only at this stage"/></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" title="Django: I've just started using this, but already love it!" /></a>                
@@ -61,7 +63,7 @@ I'm still learning **SCSS** in my free moments. I love **Python** and **Vue** an
 
 ## 💻 My Early Developer Education
 
-My career totally flipped ↕️ when I began this *wonderous* journey into the *mysterious world* of **Web Development**!  With a background in teaching in English around the world where I threw myself into finding the *best* way to teach my students, I was suddenly the learner!
+My career totally flipped ↕️ when I began this *wonderous* journey into the *mysterious world* of **Web Development**!  With a background in teaching in English around the world where I threw myself into finding the *best* way to teach my students.  Here, I was suddenly the learner!
 
 That said I'm **100% community-taught**, _which is my preferred term (rather than **self-taught**)_, meaning I've learned from so many excellent sources!   My skills in education really came out in choosing which resources to use; which free resources to use and when to actually cough out my *limited* cash... 🫦🤑
 
@@ -85,7 +87,19 @@ Resources like **[CS50](https://pll.harvard.edu/course/cs50-introduction-compute
 
 These represented the start of my journey into code that has only bloomed these last few years.  
 
-Nowadays, I spend my time building full-stack projects, tackling DSA challenges (mainly through [Codewars](https://www.codewars.com/users/PharaohNutz), and learning Rust. 
+Nowadays, I spend my time building full-stack projects, tackling DSA challenges (mainly through [Codewars](https://www.codewars.com/users/PharaohNutz)). 
+
+## 🔥My Current Education
+
+I finally completed **[Scrimba's Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack)**!!!  This was huge for me, because it had been the backbone of my education.  I'd complete modules, then go of into the ether and create projects to solidify that knowledge.  _As you can probably guess_, this would lead me into so many learning rabbit holes.  
+
+<ul>
+  <li>How can I use routing? Oh - just learn **React Router**!</li>
+  <li>I'm neglecting **Python**.  Let's pick up some **Django**.</li>
+  <li>A cool LinkedIn connection wants me to work on a C# project - Time for an abbreviated learning sess.</li>
+  <li>[Exercism](https://exercism.org/) has a challenge to use a new programming language each month this year - Gotta jump on that!</li>
+  <li>I want to make fullstack apps - let the exploration commence!</li>
+</ul>
 
 
 
@@ -97,7 +111,11 @@ Nowadays, I spend my time building full-stack projects, tackling DSA challenges 
 
 ## 📣 My Socials
 
-<p align="center"> <a href="https://www.linkedin.com/in/jolene-kearse-2562ba218/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/FromJolene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  <a href="https://discord.com/users/Jolene#8258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.codepen.io/EnglishWithJolene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/JoleneKearse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/jolene-kearse-2562ba218/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/JoleneKearse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/Jolene#8258" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/FromJolene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+<a href="https://www.codepen.io/EnglishWithJolene" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
 
 <a href="https://www.twitter.com/FromJolene" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/FromJolene?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
