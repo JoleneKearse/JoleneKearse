@@ -3,14 +3,14 @@
 
 <img src="github-readme.png">
 
-Hi, everyone! 👋 I have been building **frontend** projects for over 5 years and have transitioned into **full-stack** these past two.  I mainly use JS, React, Tailwind, Node and PostgreSQL, but I've been dedicated to learning Rust in 2024.
+Hi, everyone! 👋 I have been building **frontend** projects for over 5 years and have transitioned into **full-stack** these past two.  I mainly use TS, JS, React, Tailwind, Node and PostgreSQL.
 
 <hr>
 
 ## 🏃‍♀️ Quick Facts About Me
 
 - 🌍  I'm based in Southwestern Ontario, Canada for family reasons, but I'm an expat at heart. 💗
-- 🧠  I'm enamoured with **Rust** 🦀, and continuing on with **React** & **TypeScript**.
+- 🧠  I'm a **TypeScipt** & **React** developer, who builds full-stack accessible apps.  My latest obsession is **web performance**.
 - 🤝  I'm open to collaborating on **group projects**, **pair programming** and **open source**. I love getting more practice with the **team git workflow**. But the best thing is *combining our collective tech knowledge & talking code*.
 - ⚡  I was an English as a Foreign Language Teacher for 15+ years. I lived primarily in China, but also spent time in England, Canada and South Korea. There was actually one 6-month period where I lived on 3 different continents!
 - 🥰 I'm addicted to _celebrating_ my **LinkedIn** connections' achievements and giving encouraging likes and Tweets on **Twitter**.
