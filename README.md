@@ -141,13 +141,13 @@ I finally completed **[Scrimba's Fullstack Developer Path](https://scrimba.com/f
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 38 mins
+Total Time: 20 mins
 
-Other        1 hr 45 mins          ██████████████████▒░░░░░░   73.30 %
-TypeScript   31 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
-Bash         5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other        1 hr 7 mins           ███████████████████▒░░░░░   77.09 %
+TypeScript   13 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Bash         5 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
