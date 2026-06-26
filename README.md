@@ -143,7 +143,7 @@ I finally completed **[Scrimba's Fullstack Developer Path](https://scrimba.com/f
 ```txt
 Total Time: 0 secs
 
-No activity tracked
+Other   19 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
